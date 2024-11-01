@@ -1,1 +1,1 @@
-A multi-class classification problem solved by a developed fully-connected deep neural network. the problem has 8 features, one outpout, and some 640 samples. the outputs are published in the automation in Constructionjournal.
+A multi-class classification problem solved by a developed fully-connected deep neural network. the problem has 8 features, one outpout, and some 640 samples. the outputs are published in the Automation in Construction journal.
